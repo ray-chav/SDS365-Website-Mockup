@@ -1,0 +1,8 @@
+---
+title: "SDS365 - HW2, Web Site"
+author: "Rachel Chavez - rcc3342"
+date: "2026-09-10"
+image: "website_mockup.png"
+output:
+  postcards::trestles
+---
